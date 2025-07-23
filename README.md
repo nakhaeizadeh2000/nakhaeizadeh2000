@@ -70,8 +70,8 @@ I have extensive experience in full-stack development, with a focus on modern we
 
 I’m always open to discussing new opportunities, collaborations, or just chatting about tech! Reach out to me via:
 
-- **Email**: [nakhaeizadeh2000@gmail.com](mailto:nakhaeizadeh2000@gmail.com) | [me.nakhaeizadeh@gmail.com](mailto:me.nakhaeizadeh@gmail.com)  
-- **Phone**: +98 992 287 0907 | +98 913 485 3371  
+- **Email**: [nakhaeizadeh2000@gmail.com](mailto:nakhaeizadeh2000@gmail.com)
+- **Phone**: +98 992 287 0907
 - **GitHub**: You're already here! Check out my repositories below.  
 - **Location**: Yazd, Iran  
 
