@@ -1,5 +1,5 @@
 # Hi 👋 
-#this is Amir Hossein Nakhaei Zadeh
+# this is Amir Hossein Nakhaei Zadeh
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** based in **Yazd, Iran**, with a strong focus on building scalable, user-friendly web applications. Currently, I'm working at **Webpooyan Ariana**, a web development company, and pursuing my **Master's degree** at Azad University of Yazd. I’m dedicated to crafting innovative solutions, with a personal focus on an **accounting project** and a collaborative spirit to work with other developers globally.
 
